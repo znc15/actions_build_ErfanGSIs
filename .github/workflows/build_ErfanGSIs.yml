@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/V12.0.2.0.PDCCNXM/miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: a
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
