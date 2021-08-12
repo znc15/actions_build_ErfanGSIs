@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.PDCCNXM/miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://dfzy936t.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16/9.21.8.10/cn_beta/20210810003824/07a2e98f/update.zip?xy_rid=3CHvaEi44Hl5MJ
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
