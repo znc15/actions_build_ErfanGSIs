@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dfzy936t.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16/9.21.8.10/cn_beta/20210810003824/07a2e98f/update.zip?xy_rid=3CHvaEi44Hl5MJ
+  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2F16%2F9.21.8.10%2Fcn_beta%2F20210810003824%2F07a2e98f%2Fupdate.zip
   ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
