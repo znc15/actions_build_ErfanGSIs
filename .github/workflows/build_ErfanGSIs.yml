@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s_Pro/9.21.8.24/cn_beta/20210824002116/e70d8270/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://pan.znc15.com/api/v3/file/source/26/MK100.0-raphael-202108251228-NIGHTLY_1.zip?sign=pCzp2t7KNHd9m5f96OvYpq-0DszTipWZBnfZOwUJzGg%3D%3A0
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
