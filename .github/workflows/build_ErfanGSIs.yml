@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/9.7.22/miui_CEPHEUS_9.7.22_e73316ebc9_9.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: a
   TZ: Asia/Shanghai
 
 jobs:
