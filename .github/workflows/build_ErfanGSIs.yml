@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.9.3/miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+  ROM_URL: https://bigota.d.miui.com/9.8.1/miui_RAPHAEL_9.8.1_8bcfce13ef_9.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: a
   TZ: Asia/Shanghai
