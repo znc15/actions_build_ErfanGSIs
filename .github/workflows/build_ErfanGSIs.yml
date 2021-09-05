@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.8.1/miui_RAPHAEL_9.8.1_8bcfce13ef_9.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: a
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/9.21.8.24/cn_beta/20210824002010/9ef4ce08/update.zip
+  ROM_NAME: Flyme
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
