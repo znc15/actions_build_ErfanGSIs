@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.12.9/miui_CEPHEUS_20.12.9_720b503bcf_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://nchc.dl.sourceforge.net/project/crdroid/jason/7.x/crDroidAndroid-11.0-20211110-jason-v7.12.zip
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
