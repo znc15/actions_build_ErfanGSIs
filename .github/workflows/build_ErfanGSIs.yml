@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://udomain.dl.sourceforge.net/project/rayrzy/NusantaraProject/Nusantara_LTS-10-vince-09102021-UNOFFICIAL-0412.zip
-  ROM_NAME: Generic
+  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2F16s%2F9.21.11.18%2Fcn_beta%2F20211117221328%2F735aefce%2Fupdate.zip
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
